@@ -1,2 +1,2 @@
 # thirtydaymapchallenge
-#30daymapchallenge entries from the lab
+#30daymapchallenge entries by GDSL.
