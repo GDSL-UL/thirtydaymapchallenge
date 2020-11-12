@@ -50,6 +50,6 @@ For the theme 'Grids' PhD Student [Nikos Patias](https://twitter.com/pat_nikos) 
 ![day10_grids](https://user-images.githubusercontent.com/57355504/98964407-aac1fe00-2500-11eb-819d-ccf1c467d99c.png)
 
 ## 12. Map not made by GIS software
-For the theme 'Maps not made with GIS software', PhD Student Liv Horsefield(https://twitter.com/OliviaJH) sketched an #OS style map of her animal crossing island.
+For the theme 'Maps not made with GIS software', PhD Student [Liv Horsefield](https://twitter.com/OliviaJH) sketched an #OS style map of her animal crossing island.
 
 ![Day_11](https://user-images.githubusercontent.com/57355504/98964675-03919680-2501-11eb-8712-9f6a1ac1a7f1.jpg)
