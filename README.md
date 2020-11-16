@@ -19,6 +19,8 @@ For the theme 'Polygons', [Professor Alex Singleton](https://twitter.com/alexsin
 ## 4. Hexagons
 For the theme 'Hexagons' PhD Student [Patrick Ballantyne](https://twitter.com/pj_ballantyne) visualised changes in retail mobility in Chicago in response to COVID19 using [SafeGraph](https://twitter.com/SafeGraph) data and H3. Code available [here](https://bit.ly/36ib2ZR).
 
+![retailpatterns_hexmap](https://user-images.githubusercontent.com/57355504/99233429-1fd85080-27eb-11eb-9d48-0810ff9a92fa.gif)
+
 ## 5. Blue
 For the theme 'Blue' PhD Student [Sian Teesdale](https://twitter.com/SianTeesdale) used data from [HERE Technologies](https://twitter.com/here) to visualise car detection in the San Francisco Bay Area using machine learning, random forest, H3 and geopandas.
 
