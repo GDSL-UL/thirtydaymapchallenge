@@ -55,3 +55,55 @@ For the theme 'Grids' PhD Student [Nikos Patias](https://twitter.com/pat_nikos) 
 For the theme 'Maps not made with GIS software', PhD Student [Liv Horsefield](https://twitter.com/OliviaJH) sketched an #OS style map of her animal crossing island.
 
 ![Day_11](https://user-images.githubusercontent.com/57355504/98964675-03919680-2501-11eb-8712-9f6a1ac1a7f1.jpg)
+
+## 13. Raster
+
+![Day_13](https://user-images.githubusercontent.com/57355504/100613360-51353e00-330c-11eb-95d5-1cb7bf5b5e52.jpg)
+
+## 14. Climate change
+
+![14 ClimateChange_CR](https://user-images.githubusercontent.com/57355504/100613074-dbc96d80-330b-11eb-9074-927288b3a28d.png)
+
+## 15. Connections
+
+![Day15_Connections](https://user-images.githubusercontent.com/57355504/100613082-de2bc780-330b-11eb-8be6-5b60082f5872.png)
+
+## 16. Islands(s)
+
+![Day16_islands](https://user-images.githubusercontent.com/57355504/100613087-df5cf480-330b-11eb-8a96-a3f67321f6c1.gif)
+
+## 17. Historical
+
+![day17_historical](https://user-images.githubusercontent.com/57355504/100613091-e08e2180-330b-11eb-91c2-690f95e0b3db.png)
+
+## 18. Landuse
+
+![day18_landuse](https://user-images.githubusercontent.com/57355504/100613097-e257e500-330b-11eb-8112-da04cf7b4e64.png)
+
+## 19. NULL
+
+![19_NULL_Green](https://user-images.githubusercontent.com/57355504/100613111-e552d580-330b-11eb-8f24-03cad580cec9.jpeg)
+
+## 20. Population
+
+![Day20_Population](https://user-images.githubusercontent.com/57355504/100613115-e6840280-330b-11eb-90a4-d8a3f8656a02.png)
+
+## 21. Water
+
+![day21_water_DanOwen](https://user-images.githubusercontent.com/57355504/100613118-e71c9900-330b-11eb-899a-9ea453b6e6c7.png)
+
+## 22. Movement
+
+## 23. Boundaries
+
+![Day23_tessellation](https://user-images.githubusercontent.com/57355504/100613120-e8e65c80-330b-11eb-84c8-0a9aeac15fd8.gif)
+
+## 24. Elevation
+
+![Day_24_RossallElevations](https://user-images.githubusercontent.com/57355504/100613125-eab02000-330b-11eb-94d6-c9a8b8491285.gif)
+
+## 25. COVID-19
+
+## 26. Map with a new tool
+![Day_20_London_Tribes](https://user-images.githubusercontent.com/57355504/100613136-ef74d400-330b-11eb-8cc5-5e5949444141.png)
+
