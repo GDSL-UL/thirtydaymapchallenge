@@ -83,40 +83,43 @@ For the theme 'Historical', [Alessia Calafiore](https://twitter.com/alel_domi) m
 ![day17_historical](https://user-images.githubusercontent.com/57355504/100613091-e08e2180-330b-11eb-91c2-690f95e0b3db.png)
 
 ## 18. Landuse
-For the theme 'Land-Use', [Nikos Patias](https://twitter.com/pat_nikos) maps a #sustainable #urban #development index (paper not yet published) for the 12 largest urban areas of GB, using Ordnance Survey data from 2001-16, maps available [here](https://bit.ly/3lLlnDO). 
+For the theme 'Land-Use', [Nikos Patias](https://twitter.com/pat_nikos) mapped a #sustainable #urban #development index (paper not yet published) for the 12 largest urban areas of GB, using Ordnance Survey data from 2001-16, maps available [here](https://bit.ly/3lLlnDO). 
 
 ![day18_landuse](https://user-images.githubusercontent.com/57355504/100613097-e257e500-330b-11eb-8112-da04cf7b4e64.png)
 
 ## 19. NULL
-For the theme 'NULL', Mark Green (https://twitter.com/markalangreen) has mapped sensor locations within the North East Combined Authority, showing how many areas are NULL in having no data collected. 
+For the theme 'NULL', Mark Green(https://twitter.com/markalangreen) mapped sensor locations within the North East Combined Authority, showing how many areas are NULL in having no data collected. 
 
 ![19_NULL_Green](https://user-images.githubusercontent.com/57355504/100613111-e552d580-330b-11eb-8f24-03cad580cec9.jpeg)
 
 ## 20. Population
-For the theme 'Population', [Niall Newsham](https://twitter.com/nnewsh_) has mapped a 'Typology of European Population Decline', from a [working paper](https://bit.ly/3lNqWSg) using sequence analysis and EU Eurostatdata. 
+For the theme 'Population', [Niall Newsham](https://twitter.com/nnewsh_) mapped a 'Typology of European Population Decline', from a [working paper](https://bit.ly/3lNqWSg) using sequence analysis and EU Eurostatdata. 
 
 ![Day20_Population](https://user-images.githubusercontent.com/57355504/100613115-e6840280-330b-11eb-90a4-d8a3f8656a02.png)
 
 ## 21. Water
+For the theme 'Water', [Dan Owen](https://twitter.com/DanialOwenCDT) mapped the rivers of Wales.
 
 ![day21_water_DanOwen](https://user-images.githubusercontent.com/57355504/100613118-e71c9900-330b-11eb-899a-9ea453b6e6c7.png)
 
 ## 22. Movement
-For the theme 'Movement', [Francisco Rowe](https://twitter.com/Fcorowe) and [Nikos Patias](https://twitter.com/pat_nikos) have mapped the spatial patterns of internal migration in Europe. Paper available [here](https://bit.ly/2URgNIk) and Github Repo [here](https://bit.ly/3fn6ftV).
-
-
+For the theme 'Movement', [Francisco Rowe](https://twitter.com/Fcorowe) and [Nikos Patias](https://twitter.com/pat_nikos) mapped the spatial patterns of internal migration in Europe. Paper available [here](https://bit.ly/2URgNIk) and Github Repo [here](https://bit.ly/3fn6ftV).
 
 ## 23. Boundaries
-For the theme 'Boundaries', [Martin Fleischmann](https://twitter.com/martinfleis) and [Dani Arribas-Bel](https://twitter.com/darribas) have prepared an animation illustrating generation of boundaries of morphological tessellation - small spatial units - around the world. Explore each step in detail [here](https://urbangrammarai.github.io/blog/post5_mapchallenge.html).
+For the theme 'Boundaries', [Martin Fleischmann](https://twitter.com/martinfleis) and [Dani Arribas-Bel](https://twitter.com/darribas) prepared an animation illustrating generation of boundaries of morphological tessellation - small spatial units - around the world. Explore each step in detail [here](https://urbangrammarai.github.io/blog/post5_mapchallenge.html).
 
 ![Day23_tessellation](https://user-images.githubusercontent.com/57355504/100613120-e8e65c80-330b-11eb-84c8-0a9aeac15fd8.gif)
 
 ## 24. Elevation
+For the theme 'elevation', [James Murphy](https://twitter.com/jamesfmurphy95) created a digital elevation model of Rossall Beach, Cleveleys using radar imagery from the continuous coastal monitoring project with Marlan maritime.
 
 ![Day_24_RossallElevations](https://user-images.githubusercontent.com/57355504/100613125-eab02000-330b-11eb-94d6-c9a8b8491285.gif)
 
 ## 25. COVID-19
+For the theme 'COVID-19' [Francisco Rowe](https://twitter.com/Fcorowe) created an animation of new COVID-19 cases for Great Britain. For more Spatio-Temporal analysis in R visit the book (w/ [Dani Arribas-Bel](https://twitter.com/darribas)) available [here](https://bit.ly/2V3xTD7).
 
 ## 26. Map with a new tool
+For the 'map with a new tool', [Alex Singleton](https://twitter.com/alexsingleton) presents ['mapmaker'](https://twitter.com/CDRC_UK), which you can use to explore numerous CDRC datasets including the ['London Output Area Classification'](https://bit.ly/33kgtXd).
+ 
 ![Day_20_London_Tribes](https://user-images.githubusercontent.com/57355504/100613136-ef74d400-330b-11eb-8cc5-5e5949444141.png)
 
