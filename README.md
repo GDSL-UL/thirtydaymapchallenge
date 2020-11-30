@@ -52,7 +52,7 @@ For the theme 'Grids', [Nikos Patias](https://twitter.com/pat_nikos) has visuali
 ![day10_grids](https://user-images.githubusercontent.com/57355504/98964407-aac1fe00-2500-11eb-819d-ccf1c467d99c.png)
 
 ## 12. Map not made by GIS software
-For the theme 'Maps not made with GIS software', [Liv Horsefield](https://twitter.com/OliviaJH) sketched an #OS style map of her animal crossing island.
+For the theme 'Maps not made with GIS software', [Liv Horsefield](https://twitter.com/OliviaJH) sketched an OS style map of her animal crossing island.
 
 ![Day_11](https://user-images.githubusercontent.com/57355504/98964675-03919680-2501-11eb-8712-9f6a1ac1a7f1.jpg)
 
@@ -83,17 +83,17 @@ For the theme 'Historical', [Alessia Calafiore](https://twitter.com/alel_domi) m
 ![day17_historical](https://user-images.githubusercontent.com/57355504/100613091-e08e2180-330b-11eb-91c2-690f95e0b3db.png)
 
 ## 18. Landuse
-For the theme 'Land-Use', [Nikos Patias](https://twitter.com/pat_nikos) mapped a #sustainable #urban #development index (paper not yet published) for the 12 largest urban areas of GB, using Ordnance Survey data from 2001-16, maps available [here](https://bit.ly/3lLlnDO). 
+For the theme 'Land-Use', [Nikos Patias](https://twitter.com/pat_nikos) mapped a Sustainable Urban Development Index (paper not yet published) for the 12 largest urban areas of GB, using Ordnance Survey data from 2001-16, maps available [here](https://bit.ly/3lLlnDO). 
 
 ![day18_landuse](https://user-images.githubusercontent.com/57355504/100613097-e257e500-330b-11eb-8112-da04cf7b4e64.png)
 
 ## 19. NULL
-For the theme 'NULL', Mark Green(https://twitter.com/markalangreen) mapped sensor locations within the North East Combined Authority, showing how many areas are NULL in having no data collected. 
+For the theme 'NULL', [Mark Green](https://twitter.com/markalangreen) mapped sensor locations within the North East Combined Authority, showing how many areas are NULL in having no data collected. 
 
 ![19_NULL_Green](https://user-images.githubusercontent.com/57355504/100613111-e552d580-330b-11eb-8f24-03cad580cec9.jpeg)
 
 ## 20. Population
-For the theme 'Population', [Niall Newsham](https://twitter.com/nnewsh_) mapped a 'Typology of European Population Decline', from a [working paper](https://bit.ly/3lNqWSg) using sequence analysis and EU Eurostatdata. 
+For the theme 'Population', [Niall Newsham](https://twitter.com/nnewsh_) mapped a 'Typology of European Population Decline', from a [working paper](https://bit.ly/3lNqWSg) using sequence analysis and EU Eurostat data. 
 
 ![Day20_Population](https://user-images.githubusercontent.com/57355504/100613115-e6840280-330b-11eb-90a4-d8a3f8656a02.png)
 
@@ -111,7 +111,7 @@ For the theme 'Boundaries', [Martin Fleischmann](https://twitter.com/martinfleis
 ![Day23_tessellation](https://user-images.githubusercontent.com/57355504/100613120-e8e65c80-330b-11eb-84c8-0a9aeac15fd8.gif)
 
 ## 24. Elevation
-For the theme 'elevation', [James Murphy](https://twitter.com/jamesfmurphy95) created a digital elevation model of Rossall Beach, Cleveleys using radar imagery from the continuous coastal monitoring project with Marlan maritime.
+For the theme 'Elevation', [James Murphy](https://twitter.com/jamesfmurphy95) created a digital elevation model of Rossall Beach, Cleveleys using radar imagery from the continuous coastal monitoring project with Marlan maritime.
 
 ![Day_24_RossallElevations](https://user-images.githubusercontent.com/57355504/100613125-eab02000-330b-11eb-94d6-c9a8b8491285.gif)
 
