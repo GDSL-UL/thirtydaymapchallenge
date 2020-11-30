@@ -93,8 +93,12 @@ For the theme 'Maps not made with GIS software', PhD Student [Liv Horsefield](ht
 ![day21_water_DanOwen](https://user-images.githubusercontent.com/57355504/100613118-e71c9900-330b-11eb-899a-9ea453b6e6c7.png)
 
 ## 22. Movement
+For the theme 'Movement', [Francisco Rowe](https://twitter.com/Fcorowe) and [Nikos Patias](https://twitter.com/pat_nikos) have mapped the spatial patterns of internal migration in Europe. Paper available [here](https://bit.ly/2URgNIk) and Github Repo [here](https://bit.ly/3fn6ftV).
+
+
 
 ## 23. Boundaries
+For the theme 'Boundaries', [Martin Fleischmann](https://twitter.com/martinfleis) and [Dani Arribas-Bel](https://twitter.com/darribas) have prepared an animation illustrating generation of boundaries of morphological tessellation - small spatial units - around the world. Explore each step in detail [here](https://urbangrammarai.github.io/blog/post5_mapchallenge.html).
 
 ![Day23_tessellation](https://user-images.githubusercontent.com/57355504/100613120-e8e65c80-330b-11eb-84c8-0a9aeac15fd8.gif)
 
