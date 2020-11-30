@@ -83,14 +83,17 @@ For the theme 'Historical', [Alessia Calafiore](https://twitter.com/alel_domi) m
 ![day17_historical](https://user-images.githubusercontent.com/57355504/100613091-e08e2180-330b-11eb-91c2-690f95e0b3db.png)
 
 ## 18. Landuse
-[Nikos Patias](https://twitter.com/pat_nikos) 
+For the theme 'Land-Use', [Nikos Patias](https://twitter.com/pat_nikos) maps a #sustainable #urban #development index (paper not yet published) for the 12 largest urban areas of GB, using Ordnance Survey data from 2001-16, maps available [here](https://bit.ly/3lLlnDO). 
+
 ![day18_landuse](https://user-images.githubusercontent.com/57355504/100613097-e257e500-330b-11eb-8112-da04cf7b4e64.png)
 
 ## 19. NULL
+For the theme 'NULL', Mark Green (https://twitter.com/markalangreen) has mapped sensor locations within the North East Combined Authority, showing how many areas are NULL in having no data collected. 
 
 ![19_NULL_Green](https://user-images.githubusercontent.com/57355504/100613111-e552d580-330b-11eb-8f24-03cad580cec9.jpeg)
 
 ## 20. Population
+For the theme 'Population', [Niall Newsham](https://twitter.com/nnewsh_) has mapped a 'Typology of European Population Decline', from a [working paper](https://bit.ly/3lNqWSg) using sequence analysis and EU Eurostatdata. 
 
 ![Day20_Population](https://user-images.githubusercontent.com/57355504/100613115-e6840280-330b-11eb-90a4-d8a3f8656a02.png)
 
