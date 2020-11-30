@@ -2,7 +2,7 @@
 #30daymapchallenge entries by GDSL.
 
 ## 1. Points
-For the theme 'Points', [Caitlin Robinson](https://twitter.com/CaitHRobin) created a map of energy related infrastructure projects that form part of China's Belt and Road initiative, code/data available [here](https://github.com/CaitHRobinson/beltandroad).
+For the theme 'Points', [Cait Robinson](https://twitter.com/CaitHRobin) created a map of energy related infrastructure projects that form part of China's Belt and Road initiative, code/data available [here](https://github.com/CaitHRobinson/beltandroad).
 
 ![1 points_CR](https://user-images.githubusercontent.com/57355504/98963967-2bccc580-2500-11eb-9370-301d3c0f6da2.png)
 
