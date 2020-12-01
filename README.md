@@ -118,6 +118,8 @@ For the theme 'Elevation', [James Murphy](https://twitter.com/jamesfmurphy95) cr
 ## 25. COVID-19
 For the theme 'COVID-19' [Francisco Rowe](https://twitter.com/Fcorowe) created an animation of new COVID-19 cases for Great Britain. For more Spatio-Temporal analysis in R visit the book (w/ [Dani Arribas-Bel](https://twitter.com/darribas)) available [here](https://bit.ly/2V3xTD7).
 
+![Day 25](https://user-images.githubusercontent.com/43341895/100720985-acbc0600-33b6-11eb-9416-62652d2b487a.gif)
+
 ## 26. Map with a new tool
 For the 'map with a new tool', [Alex Singleton](https://twitter.com/alexsingleton) presents ['mapmaker'](https://twitter.com/CDRC_UK), which you can use to explore numerous CDRC datasets including the ['London Output Area Classification'](https://bit.ly/33kgtXd).
  
@@ -126,7 +128,11 @@ For the 'map with a new tool', [Alex Singleton](https://twitter.com/alexsingleto
 ## 28. Non-Geographic Map
 The 'Non-Geographic Map' is a spatial configuration map of Calderstones Park, Liverpool, created by [Jamie O'Brien](https://twitter.com/Jamie0Brien). The format on the left shows park landscape architecture as a system of nodes - useful for revealing spatial functionality.
 
+![Day 28](https://user-images.githubusercontent.com/43341895/100720781-68c90100-33b6-11eb-843f-1f19438e9a6b.png)
+
 ## 29. Globe 
 For Sunday's theme: 'Globe' [Francisco Rowe] (https://twitter.com/Fcorowe) has shared some preliminary results of a project on global inequality: colour composition of normalised pop density (red), building density (blue) and night-time light (white) - Further info: https://bit.ly/39wZepQ
+
+![Day 29](https://user-images.githubusercontent.com/43341895/100720799-6ff00f00-33b6-11eb-80e5-55a1afb45139.jpg)
 
 
