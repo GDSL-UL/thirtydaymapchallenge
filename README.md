@@ -123,3 +123,10 @@ For the 'map with a new tool', [Alex Singleton](https://twitter.com/alexsingleto
  
 ![Day_20_London_Tribes](https://user-images.githubusercontent.com/57355504/100613136-ef74d400-330b-11eb-8cc5-5e5949444141.png)
 
+## 28. Non-Geographic Map
+The 'Non-Geographic Map' is a spatial configuration map of Calderstones Park, Liverpool, created by [Jamie O'Brien](https://twitter.com/Jamie0Brien). The format on the left shows park landscape architecture as a system of nodes - useful for revealing spatial functionality.
+
+## 29. Globe 
+For Sunday's theme: 'Globe' [Francisco Rowe] (https://twitter.com/Fcorowe) has shared some preliminary results of a project on global inequality: colour composition of normalised pop density (red), building density (blue) and night-time light (white) - Further info: https://bit.ly/39wZepQ
+
+
