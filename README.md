@@ -131,7 +131,7 @@ The 'Non-Geographic Map' is a spatial configuration map of Calderstones Park, Li
 ![Day 29](https://user-images.githubusercontent.com/43341895/100720799-6ff00f00-33b6-11eb-80e5-55a1afb45139.jpg)
 
 ## 29. Globe 
-For Sunday's theme: 'Globe' [Francisco Rowe] (https://twitter.com/Fcorowe) has shared some preliminary results of a project on global inequality: colour composition of normalised pop density (red), building density (blue) and night-time light (white) - Further info: https://bit.ly/39wZepQ
+For Sunday's theme: 'Globe' [Francisco Rowe](https://twitter.com/Fcorowe) has shared some preliminary results of a project on global inequality: colour composition of normalised pop density (red), building density (blue) and night-time light (white) - Further info: https://bit.ly/39wZepQ
 
 ![Day 28](https://user-images.githubusercontent.com/43341895/100720781-68c90100-33b6-11eb-843f-1f19438e9a6b.png)
 
